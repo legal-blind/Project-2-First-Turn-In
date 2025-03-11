@@ -1,0 +1,41 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Index page styles */
+body.index {
+    background-color: #f0f8ff;
+    color: #000080;
+}
+
+/* Cupcakes page styles */
+body.cupcakes {
+    background-color: #fff0f5;
+    color: #c71585;
+}
+
+/* Hobbies page styles */
+body.hobbies {
+    background-color: #f5fffa;
+    color: #228b22;
+}
