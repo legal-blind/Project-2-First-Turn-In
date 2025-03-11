@@ -24,8 +24,8 @@ nav a:hover {
 
 /* Index page (Resume) styles */
 body.index {
-    background-color: #f0f8ff;
-    color: yellow;
+    background-color: #0000ff; /* Changed to blue */
+    color: #add8e6; /* Light blue for text */
 }
 
 /* Cupcakes page styles */
