@@ -22,16 +22,16 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Index page styles */
+/* Index page (Resume) styles */
 body.index {
     background-color: #f0f8ff;
-    color: #000080;
+    color: yellow;
 }
 
 /* Cupcakes page styles */
 body.cupcakes {
     background-color: #fff0f5;
-    color: #c71585;
+    color: red;
 }
 
 /* Hobbies page styles */
