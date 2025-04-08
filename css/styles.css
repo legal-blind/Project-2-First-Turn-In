@@ -9,14 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-}
-
-/* Container to center content */
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
+  text-align: center; /* <- This line centers all inline text content */
 }
 
 nav {
@@ -71,4 +64,3 @@ body.hobbies {
   background-color: #f5fffa;
   color: #228b22;
 }
-
