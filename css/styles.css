@@ -5,11 +5,11 @@
   box-sizing: border-box;
 }
 
+/* General styles */
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  margin-left: 20px; /* Moves text slightly to the left */
 }
 
 nav {
